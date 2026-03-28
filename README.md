@@ -27,7 +27,7 @@ It demonstrates wired connections between PCs and switches, router configuration
 | Router  | 192.168.1.1 / 192.168.2.1 | 255.255.255.0 | - |
 
 ## Screenshots
-- Topology view: ![Topology](topology.png)
+- Topology view: ![Topology](https://github.com/ayazcoskun/home-network-simulation/blob/39320c4a8297e3c001cd84f8825d1b608c3c0772/topology.png.png)
 - Router configuration: ![Router Config](router_config.png)
 - Ping tests from AYAZPC to DAVEPC: ![Ping Test](ping_test.png)
 
