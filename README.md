@@ -28,8 +28,10 @@ It demonstrates wired connections between PCs and switches, router configuration
 
 ## Screenshots
 - Topology view: ![Topology](https://github.com/ayazcoskun/home-network-simulation/blob/39320c4a8297e3c001cd84f8825d1b608c3c0772/topology.png.png)
+- 
 - Router configuration: ![Router Config](https://github.com/ayazcoskun/home-network-simulation/blob/307d8aace660de43707c50a746c8d5a10c06d043/router_config.png.png)
-- Ping tests from AYAZPC to DAVEPC: ![Ping Test](https://github.com/ayazcoskun/home-network-simulation/blob/307d8aace660de43707c50a746c8d5a10c06d043/ping_test.png.png)
+- 
+- Ping tests from AYAZPC to DAVEPC: ![Ping Test](https://github.com/ayazcoskun/home-networsimulation/blob/307d8aace660de43707c50a746c8d5a10c06d043/ping_test.png.png)
 
 ## How to Test
 1. Open the `.pkt` file in Cisco Packet Tracer.
